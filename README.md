@@ -8,9 +8,3 @@
  Here, I've used Stack Navigation to navigate from one screen to another efficiently. 
   <BR>
     I will be uploading further versions of the app from time to time.
-
-    
-    
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
